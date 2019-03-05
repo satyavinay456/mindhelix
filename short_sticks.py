@@ -17,4 +17,4 @@ if __name__=="__main__":
 	print("first array:",first_array)
 	print("second array:",second_array)
 	md=short_sticks(first_array,second_array)
-	print(md)
+	print("length of each of the sticks: ",md)
