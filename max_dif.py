@@ -14,4 +14,4 @@ if __name__=="__main__":
 	user_input=list(map(int,input().split()))
 	print("you entered :",user_input)
 	md=max_diff(user_input)
-	print(md)
+	print("length of each of the sticks:",md)
